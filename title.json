@@ -1,0 +1,42 @@
+{"documents":[
+	{
+		"id": 1
+		,"grantor": "Joe Smith"
+		,"grantee": "JSON Oil Company"
+		,"docType": "ogl"
+		,"effDate": "2011-01-04"
+		,"term_months": 60
+		,"recDate": "2011-04-05"
+		,"recRef": "2011040522"
+		,"minInt": 0.200
+		,"gross_ac": 100.0
+		,"net_ac": 20.0
+	},
+	{
+		"id": 2
+		,"grantor": "Carlos Santa"
+		,"grantee": "RFC Resources LLC"
+		,"docType": "ogl"
+		,"effDate": "2014-02-010"
+		,"term_months": 60
+		,"recDate": "2014-06-18"
+		,"recRef": "2011040522"
+		,"minInt": 0.200
+		,"gross_ac": 100.0
+		,"net_ac": 20.0
+	},
+		{
+		"id": 3
+		,"grantor": "Renaldo"
+		,"grantee": "JSON Oil Company"
+		,"docType": "ogl"
+		,"effDate": "2011-01-04"
+		,"term_months": 60
+		,"recDate": "2011-04-05"
+		,"recRef": "2011040522"
+		,"minInt": 0.200
+		,"gross_ac": 100.0
+		,"net_ac": 20.0
+	},
+	]
+}
